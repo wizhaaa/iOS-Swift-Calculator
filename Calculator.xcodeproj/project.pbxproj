@@ -44,6 +44,7 @@
 		4FC94D602B51E16A00C683D3 /* CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FC94D642B51E16A00C683D3 /* CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITests.swift; sourceTree = "<group>"; };
 		4FC94D662B51E16A00C683D3 /* CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4FC94D732B53993500C683D3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		4FC94D3D2B51E16800C683D3 = {
 			isa = PBXGroup;
 			children = (
+				4FC94D732B53993500C683D3 /* README.md */,
 				4FC94D482B51E16900C683D3 /* Calculator */,
 				4FC94D592B51E16A00C683D3 /* CalculatorTests */,
 				4FC94D632B51E16A00C683D3 /* CalculatorUITests */,
